@@ -19,8 +19,8 @@ This application is basically an app running in the terminal with the task of tr
 # Installation
 Run npm install to install dependencies and node app.js to run the app in your terminal. For this application to work, make sure that you have a local mysql server with the required database for it to run. Schema provided should help create the database and table in your server.
 
-# Deployment
-github: https://github.com/KenOginga/employee_management_system
+# Demonstration
+github: https://github.com/KenOginga/employee_management_system/tree/main/demo
 
 # Contibutors
 Kennedy Oginga
